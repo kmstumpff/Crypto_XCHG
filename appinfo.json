@@ -1,0 +1,29 @@
+{
+    "versionLabel": "1.1",
+    "uuid": "41dccadf-b544-4195-9595-4fe61eb29b48",
+    "appKeys": {
+        "volume": 2,
+        "price": 1,
+        "marketid": 0
+    },
+    "longName": "Crypto XCHG",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Crypto XCHG",
+    "companyName": "mr__jasper",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "ICON_DOGECOIN",
+                "file": "images/Dogecoin_logo.png"
+            }
+        ]
+    }
+}
